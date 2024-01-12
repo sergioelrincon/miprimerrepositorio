@@ -1,6 +1,6 @@
 <?php
 
     echo "<br>Mi formulario";
-    echo "<br>Hola";
+    echo "<br>Viva España";
 
 ?>
